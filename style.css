@@ -1,8 +1,15 @@
 body{
     color: blue;
+    text-align: center;
+
 }
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
 
+}
+
+p{
+    box-sizing: border-box;
+    border: 1;
 }
